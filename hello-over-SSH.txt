@@ -1,0 +1,4 @@
+Hello! This is me!
+I'm here to tell you that I've managed to use the SSH key as an authentication method for remote repo. 
+
+This is AWESOME! 
