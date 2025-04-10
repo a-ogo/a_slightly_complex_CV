@@ -1,0 +1,3 @@
+Dear developer,
+
+I'm writing you this test message under test/first-branch to serve as a mean of a branch merge.
