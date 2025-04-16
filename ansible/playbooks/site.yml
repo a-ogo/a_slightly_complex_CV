@@ -1,0 +1,8 @@
+# Main playbook that includes all other playbooks
+- import_playbook: linux.yml
+- import_playbook: web.yml
+- import_playbook: monitoring.yml
+- import_playbook: backup.yml
+- import_playbook: docker.yml
+- import_playbook: jenkins.yml
+- import_playbook: wazuh.yml
